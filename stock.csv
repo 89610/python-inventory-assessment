@@ -1,0 +1,8 @@
+item_name,current_quantity,reorder_threshold
+Rice,25,30
+Sugar,15,20
+Salt,15,20
+Salt,50,25
+Oil,5,15
+Tea Powder, 40,40
+Soap,2,20

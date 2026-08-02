@@ -1,0 +1,6 @@
+Item,Current,Threshold,Priority,Reorder
+Rice,25,30,Low,5
+Sugar,15,20,Low,5
+Salt,15,20,Low,5
+Oil,5,15,Low,10
+Soap,2,20,Critical,18
